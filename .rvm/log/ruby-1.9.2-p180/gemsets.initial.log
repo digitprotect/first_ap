@@ -1,0 +1,20 @@
+[2011-03-25 23:24:26] '/home/pirai/.rvm/scripts/gemsets' initial # under ruby-1.9.2-p180
+Importing initial gemsets for ruby-1.9.2-p180.
+paths: /home/pirai/.rvm/gemsets /home/pirai/.rvm/gemsets/ruby /home/pirai/.rvm/gemsets/ruby/1.9.2 /home/pirai/.rvm/gemsets/ruby/1.9.2/p180
+
+Installing gems listed in /home/pirai/.rvm/gemsets/default.gems file...
+
+installing rake ...
+rake  installed.
+
+Processing of /home/pirai/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/pirai/.rvm/gemsets/global.gems file...
+
+installing rake ...
+rake  installed.
+
+Processing of /home/pirai/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-1.9.2-p180 is complete.

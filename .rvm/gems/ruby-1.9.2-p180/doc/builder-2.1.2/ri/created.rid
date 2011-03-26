@@ -1,0 +1,14 @@
+Fri, 25 Mar 2011 23:30:28 -0700
+lib/builder/xchar.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/builder/xmlbase.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/builder/xmlevents.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/builder/xmlmarkup.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/builder/blankslate.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/blankslate.rb	Fri, 25 Mar 2011 23:30:02 -0700
+lib/builder.rb	Fri, 25 Mar 2011 23:30:02 -0700
+CHANGES	Fri, 25 Mar 2011 23:30:02 -0700
+Rakefile	Fri, 25 Mar 2011 23:30:02 -0700
+README	Fri, 25 Mar 2011 23:30:02 -0700
+doc/releases/builder-1.2.4.rdoc	Fri, 25 Mar 2011 23:30:02 -0700
+doc/releases/builder-2.0.0.rdoc	Fri, 25 Mar 2011 23:30:02 -0700
+doc/releases/builder-2.1.1.rdoc	Fri, 25 Mar 2011 23:30:02 -0700

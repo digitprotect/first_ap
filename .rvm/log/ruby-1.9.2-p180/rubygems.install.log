@@ -1,0 +1,17 @@
+[2011-03-25 23:24:25] GEM_PATH="/home/pirai/.rvm/gems/ruby-1.9.2-p180:/home/pirai/.rvm/gems/ruby-1.9.2-p180@global:/home/pirai/.rvm/gems/ruby-1.9.2-p180@global" GEM_HOME="/home/pirai/.rvm/gems/ruby-1.9.2-p180" "/home/pirai/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" "/home/pirai/.rvm/src/rubygems-1.6.2/setup.rb"
+RubyGems 1.6.2 installed
+
+﻿=== 1.6.2 / 2011-03-08
+
+Bug Fixes:
+
+* require of an activated gem could cause activation conflicts.  Fixes
+  Bug #29056 by Dave Verwer.
+* `gem outdated` now works with up-to-date prerelease gems.
+
+
+------------------------------------------------------------------------------
+
+RubyGems installed the following executables:
+	/home/pirai/.rvm/rubies/ruby-1.9.2-p180/bin/gem
+

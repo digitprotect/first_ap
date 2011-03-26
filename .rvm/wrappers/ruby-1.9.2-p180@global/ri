@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+if [[ -s "/home/pirai/.rvm/environments/ruby-1.9.2-p180@global" ]] ; then
+  source "/home/pirai/.rvm/environments/ruby-1.9.2-p180@global"
+  exec ri "$@"
+else
+  echo "ERROR: Missing RVM environment file: '/home/pirai/.rvm/environments/ruby-1.9.2-p180@global'" >&2
+  exit 1
+fi
+  

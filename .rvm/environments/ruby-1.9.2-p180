@@ -1,0 +1,17 @@
+export PATH="/home/pirai/.rvm/gems/ruby-1.9.2-p180/bin:/home/pirai/.rvm/gems/ruby-1.9.2-p180@global/bin:/home/pirai/.rvm/rubies/ruby-1.9.2-p180/bin:/home/pirai/.rvm/bin:$PATH"
+rvm_path='/home/pirai/.rvm'
+export rvm_path
+RUBY_VERSION='ruby-1.9.2-p180'
+export RUBY_VERSION
+GEM_HOME='/home/pirai/.rvm/gems/ruby-1.9.2-p180'
+export GEM_HOME
+GEM_PATH='/home/pirai/.rvm/gems/ruby-1.9.2-p180:/home/pirai/.rvm/gems/ruby-1.9.2-p180@global'
+export GEM_PATH
+MY_RUBY_HOME='/home/pirai/.rvm/rubies/ruby-1.9.2-p180'
+export MY_RUBY_HOME
+IRBRC='/home/pirai/.rvm/rubies/ruby-1.9.2-p180/.irbrc'
+export IRBRC
+rvm_ruby_string='ruby-1.9.2-p180'
+export rvm_ruby_string
+unset rvm_gemset_name
+unset MAGLEV_HOME

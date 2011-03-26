@@ -1,0 +1,1 @@
+[2011-03-25 23:24:24] gunzip < /home/pirai/.rvm/archives/rubygems-1.6.2.tgz | tar xf - -C /home/pirai/.rvm/src

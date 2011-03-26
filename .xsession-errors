@@ -1,0 +1,100 @@
+/etc/gdm/Xsession: Beginning session setup...
+Setting IM through im-switch for locale=en_US.
+Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
+GNOME_KEYRING_CONTROL=/tmp/keyring-ziqSia
+SSH_AUTH_SOCK=/tmp/keyring-ziqSia/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-ziqSia
+SSH_AUTH_SOCK=/tmp/keyring-ziqSia/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-ziqSia
+SSH_AUTH_SOCK=/tmp/keyring-ziqSia/ssh
+
+(polkit-gnome-authentication-agent-1:13600): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:13600): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+Unable to find a synaptics device.
+** Message: applet now removed from the notification area
+GuestApp: no value for option 'unity.desktop.backgroundColor'
+/usr/bin/compiz (core) - Fatal: Software rendering detected.
+/usr/bin/compiz (core) - Error: Failed to manage screen: 0
+/usr/bin/compiz (core) - Fatal: No manageable screens found on display :0.0
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/fiberlamp.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/hypertorus.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/footlogo-floaters.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/glcells.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/cosmos-slideshow.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/personal-slideshow.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/fuzzyflakes.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/glmatrix.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/gltext.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/glslideshow.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/antspotlight.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/glblur.desktop because it's a member of category Screensaver.
+
+** (vmware-user:13597): DEBUG: Ignoring app /usr/share/applications/screensavers/glschool.desktop because it's a member of category Screensaver.
+
+Initializing nautilus-gdu extension
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+** Message: applet now embedded in the notification area
+
+(gnome-display-properties:13775): Gtk-WARNING **: Ignoring the separator setting
+
+(gnome-display-properties:13775): Gtk-WARNING **: No object called: 
+/usr/lib/python2.6/dist-packages/UpdateManager/SimpleGtkbuilderApp.py:35: GtkWarning: Ignoring the separator setting
+  self.builder.add_from_file(path)
+** (update-notifier:13828): DEBUG: --security-updates-unattended: 0
+
+** (update-notifier:13828): DEBUG: aptdaemon on bus: 0
+** (update-notifier:13828): DEBUG: Skipping reboot required
+WARNING:root:timeout reached, exiting
+Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3e00003 (pirai@ubun); these messages lack timestamps and therefore suck.
+Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3e00003 (pirai@ubun); these messages lack timestamps and therefore suck.
+** (update-notifier:13828): DEBUG: aptdaemon on bus: 0
+** (update-notifier:13828): DEBUG: Skipping reboot required
+
+(evolution-alarm-notify:13634): evolution-alarm-notify-WARNING **: alarm.c:253: Requested removal of nonexistent alarm!
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed
+
+(nautilus:13616): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL' failed

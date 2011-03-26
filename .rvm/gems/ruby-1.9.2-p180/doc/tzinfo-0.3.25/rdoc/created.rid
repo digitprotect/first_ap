@@ -1,0 +1,25 @@
+Fri, 25 Mar 2011 23:31:40 -0700
+lib/tzinfo.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/ruby_core_support.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_transition_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/linked_timezone_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/linked_timezone.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/country_index_definition.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/data_timezone.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_proxy.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/country.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/tzdataparser.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_definition.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/info_timezone.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_index_definition.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/time_or_datetime.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/offset_rationals.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_period.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/country_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/timezone_offset_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/data_timezone_info.rb	Fri, 25 Mar 2011 23:30:07 -0700
+lib/tzinfo/country_timezone.rb	Fri, 25 Mar 2011 23:30:07 -0700
+README	Fri, 25 Mar 2011 23:30:07 -0700
+CHANGES	Fri, 25 Mar 2011 23:30:07 -0700
