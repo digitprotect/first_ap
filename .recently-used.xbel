@@ -31,4 +31,18 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/pirai/.ssh/id_rsa.pub" added="2011-03-26T09:28:21Z" modified="2011-03-26T09:28:23Z" visited="2011-03-26T09:28:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2011-03-26T09:28:21Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2011-03-26T09:28:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="virtual_root" mtime="1301127567" type="string">
-		<stringvalue>file:///home/pirai/rails_projects/first_app</stringvalue>
+	<entry name="virtual_root" mtime="1301131703" type="string">
+		<stringvalue>file:///home/pirai/.ssh</stringvalue>
 	</entry>
-	<entry name="root" mtime="1301127567" type="string">
+	<entry name="root" mtime="1301131703" type="string">
 		<stringvalue>file:///</stringvalue>
 	</entry>
-	<entry name="tree_view" mtime="1301127567" type="bool" value="true"/>
+	<entry name="tree_view" mtime="1301131703" type="bool" value="true"/>
 </gconf>

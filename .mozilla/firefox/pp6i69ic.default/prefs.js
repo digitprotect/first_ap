@@ -9,8 +9,23 @@
  * For more information, see http://www.mozilla.org/unix/customizing.html#prefs
  */
 
+user_pref("accessibility.typeaheadfind.flashBar", 0);
+user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1301120576);
+user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1301120679);
+user_pref("app.update.lastUpdateTime.microsummary-generator-update-timer", 1301120947);
+user_pref("app.update.lastUpdateTime.places-maintenance-timer", 1301120456);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1301120362);
 user_pref("browser.migration.version", 1);
+user_pref("browser.places.importBookmarksHTML", false);
 user_pref("browser.places.smartBookmarksVersion", 2);
 user_pref("browser.startup.homepage_override.mstone", "rv:1.9.2.10");
+user_pref("distribution.canonical.bookmarksProcessed", true);
 user_pref("extensions.enabledItems", "langpack-en-AU@firefox-3.6.ubuntu.com:3.6,langpack-en@firefox-3.6.ubuntu.com:3.6,langpack-en-CA@firefox-3.6.ubuntu.com:3.6,langpack-en-GB@firefox-3.6.ubuntu.com:3.6,ubufox@ubuntu.com:0.9rc2,{972ce4c6-7e08-4474-a285-3208198ce6fd}:3.6.10");
 user_pref("extensions.lastAppVersion", "3.6.10");
+user_pref("idle.lastDailyNotification", 1301121451);
+user_pref("intl.charsetmenu.browser.cache", "ISO-8859-1, UTF-8");
+user_pref("network.cookie.prefsMigrated", true);
+user_pref("places.last_vacuum", 1301121451);
+user_pref("privacy.sanitize.migrateFx3Prefs", true);
+user_pref("spellchecker.dictionary", "en_US");
+user_pref("urlclassifier.keyupdatetime.https://sb-ssl.google.com/safebrowsing/newkey", 1303711933);

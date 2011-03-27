@@ -13,7 +13,7 @@
 		<stringvalue>bonobo-applet</stringvalue>
 	</entry>
 	<entry name="panel_right_stick" mtime="1301119407" schema="/schemas/apps/panel/objects/panel_right_stick" type="bool" value="true"/>
-	<entry name="locked" mtime="1301119507" schema="/schemas/apps/panel/objects/locked" type="bool" value="true"/>
+	<entry name="locked" mtime="1301164290" schema="/schemas/apps/panel/objects/locked" type="bool" value="true"/>
 	<entry name="custom_icon" mtime="1301119407" schema="/schemas/apps/panel/objects/custom_icon"/>
 	<entry name="bonobo_iid" mtime="1301119407" schema="/schemas/apps/panel/objects/bonobo_iid" type="string">
 		<stringvalue>OAFIID:GNOME_WorkspaceSwitcherApplet</stringvalue>

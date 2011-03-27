@@ -1,0 +1,33 @@
+# Ruby on Rails Tutorial: demostration application
+
+This is the demostration application for [*Ruby on Rails Tutorial: Learn Rails by Example*] (http://roring.tumblr.com) by satsmi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

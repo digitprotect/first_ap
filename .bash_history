@@ -69,3 +69,56 @@ git init
 sudo git init
 sudo git add .
 pwd
+groups root
+git push origin master
+clear
+git push origin master
+git
+pwd
+exit
+git status
+git
+git ad .
+git add .
+git init
+git add .
+git status
+git commit -m "Initial Commit"
+git log
+clear
+git config --global user.name "DigitProtect Inc"
+git config --global user.email satsmi@yahoo.com
+cd ~/.ssh
+pwd
+cd/
+cd /
+pwd
+cd ~/.ssh
+clear
+ssh-keygen -t rsa -C "satsmi@yahoo.com"
+ssh git@github.com
+git remote add origin git@github.com:digitprotect/first_ap.git
+git config --global github.user digitprotect
+git config --global github.token 08714ab9de35ffc9777807c7517ed9df
+clear
+git remote add origin git@github.com:digitprotect/first_ap.git
+sudo git remote add origin git@github.com:digitprotect/first_ap.git
+git push origin master
+git pull origin master
+sudo git pull origin master
+git push origin master
+git pull origin master
+clear
+man chown
+sudo chown -R user:satsmi@yahoo.com /home/pirai
+man chown
+clear
+git push -u origin master
+exit
+du -k
+clear
+exit
+git push origin master
+git -v
+git remote add origin git@github.com:digitprotect/first_ap.git
+git push -u origin master

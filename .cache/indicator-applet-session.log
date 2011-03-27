@@ -1,7 +1,8 @@
 Looking at Module: libsession.so
-Using user icon for 'Guest Session' from file: (null)
-id_prop_update: assertion `priv->root != NULL' failed
-id_prop_update: assertion `priv->root != NULL' failed
-id_prop_update: assertion `priv->root != NULL' failed
-entry hint: Post message...
+Unable to get property proxy for org.ayatana.indicator.session on /org/ayatana/indicator/session/menu: Could not get owner of name 'org.ayatana.indicator.session': no such name
+Restarting service 'org.ayatana.indicator.session' count 1
+Changing status icon: 'user-offline-panel'
 Updating username label
+Updating username label
+Using user icon for 'Guest Session' from file: (null)
+entry hint: Post message...

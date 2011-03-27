@@ -7,15 +7,13 @@
     <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
   </RDF:Description>
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
-                   width="994"
                    height="714"
+                   screenX="0"
                    screenY="24"
                    sizemode="normal"
-                   screenX="0" />
+                   width="994" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
                    sidebarcommand=""
                    width=""
                    src="" />
-  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
-                   value="" />
 </RDF:RDF>
